@@ -12,7 +12,7 @@ dribbble:
   color : 444444
 
 email:
-  url   : "mailto:"
+  url   : "mailto:fernandezotniel@gmail.com"
   icon  : fas fa-envelope
   color : db4437
 
@@ -22,7 +22,7 @@ facebook:
   color : 3b5998
 
 github:
-  url   : https://www.github.com/
+  url   : https://www.github.com/otnielfernandez
   icon  : fab fa-github
   color : 333333
 
