@@ -18,12 +18,15 @@ Example comes from this [great blog post right here](https://blog.4dcu.be/progra
 We can use a vegachart HTML tag like so:
 
 ```
-<vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
+
 ```
+<vegachart schema-url="{{ site.baseurl }}/assets/json/newplot.json" style="width: 100%"></vegachart>
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
+This is the interactive plot.
 
-In theory, you can also use [Jekyll hooks](https://jekyllrb.com/docs/plugins/hooks/) to do it, but I haven't figured out a way that looks nice yet.
+<vegachart schema-url="{{ site.baseurl }}/assets/json/uninteractive_plot.json" style="width: 100%"></vegachart>
+
+Uninteractive plot.
 
 
 ## Search The Data & Methods
