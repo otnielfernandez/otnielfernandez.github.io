@@ -83,10 +83,10 @@ Below is some links to both the data and the analysis code as buttons:
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="left">
-{% include elements/button.html link="https://github.com/otnielfernandez/otnielfernandez.github.io/blob/main/assets/json/newplot.json" text="The Data" %}
+{% include elements/button.html link="https://github.com/otnielfernandez/otnielfernandez.github.io/tree/main/assets/json" text="The Data" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/otnielfernandez/otnielfernandez.github.io/blob/main/python_notebooks/Workbook.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/otnielfernandez/otnielfernandez.github.io/blob/main/python_notebooks/Workbook%20(1).ipynb" text="The Analysis" %}
 </div>
 
