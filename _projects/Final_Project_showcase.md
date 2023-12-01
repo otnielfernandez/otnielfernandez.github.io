@@ -1,8 +1,8 @@
 ---
-name: Homework 8 project
-tools: [Python, HTML, Altair]
-image: assets/pngs/cars.png
-description: Showcase project using Vega-lite
+name: Final Project Showcase
+tools: [Python, HTML, Altair, NumPy, Pandas]
+image: assets/pngs/positive_and_negative_words.jpg
+description: Showcase project using Python/Altair
 custom_js:
   - vega.min
   - vega-lite.min
