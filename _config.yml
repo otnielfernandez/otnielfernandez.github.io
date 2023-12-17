@@ -5,9 +5,9 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title               : Otniel's Projects 
+title               : Otniel's Projects
 description         : >-
-                      Hello! I am Otniel Fernandez!
+                      Hello and welcome to my corner of the web! I'm thrilled to have you here :)
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
 repository          :                     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects) -- for example, I would put "jnaiman" without the quotes after the ":" here
@@ -34,13 +34,13 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : By Otniel Fernandez
-  image             : <img src="https://raw.githubusercontent.com/otnielfernandez/otnielfernandez.github.io/main/assets/pngs/MML_4901_0002.jpg" width="400px" alt="Description">
+  name              : Otniel Fernandez
+  image             : https://raw.githubusercontent.com/otnielfernandez/otnielfernandez.github.io/main/assets/pngs/otniel_blue.jpg
 #  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-#  facebook          : your_username
-  github            : jnaiman # JPN
+  email             : 
+#  facebook          : the
+  github            : 
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
@@ -51,7 +51,7 @@ author:
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 #  twitch            : your_username
-  twitter           : your_username
+#  twitter           : your_username
 #  vimeo             : your_username
   youtube           : your_channel_name
 # keybase           : your_username
