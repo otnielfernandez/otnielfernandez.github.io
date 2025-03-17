@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Degrees",
+      "category" : "",
+      "tags"     : "Community Health, Information Science",
+      "url"      : "/blog/playground",
+      "date"     : "2025-03-17 00:00:00 -0500"
+    } ,
+  
+    {
       "title"    : "The Hello World of Blogs",
       "category" : "",
       "tags"     : "Technology, Blogging",
