@@ -1,8 +1,8 @@
 ---
 name: Final Project Showcase
 tools: [Python, HTML, Altair, NumPy, Pandas]
-image: assets/pngs/positive_and_negative_words.jpg
-description: Showcase project using Python/Altair
+image: assets/pngs/words.jpg
+description: Project using Python/Altair
 custom_js:
   - vega.min
   - vega-lite.min

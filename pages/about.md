@@ -8,8 +8,8 @@ weight: 3
 # **About Me**
 
 
-Hi I am Otniel Fernandez! <br>
-I'm a senior majoring in information science, specializing in data science. I am also dual degreeing in public health, specializing in health promotion. I am passionate in combining healthcare with data analytics to seek meaningful patterns revolving around public health issues with solutions using ML!
+Hello, my name is Otniel Fernandez! <br>
+I'm an August graduate with a bachelors in information science, specializing in data science. I also have a secondary degree in Public Health, specializing in health promotion. I am passionate about combining healthcare with data analytics to seek meaningful patterns revolving around public health issues with solutions using machine learning and analytics.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

@@ -1,8 +1,8 @@
 ---
-name: Homework 8 project
+name: Homework 8 for IS445
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
-description: Showcase project using Vega-lite
+image: assets/pngs/building_image.jpg
+description: Showcase project utilizing Vega-lite.
 custom_js:
   - vega.min
   - vega-lite.min
@@ -11,13 +11,14 @@ custom_js:
 ---
 
 
-# Example including vega-lite
+# First shot at using Vega-lite for Homework
 
-Example comes from this [great blog post right here](https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html) that was also used in [our test import script](https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/blob/main/week01/test_imports_week01.ipynb).
+Example comes from this [great blog post right here](https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html)
 
-We can use a vegachart HTML tag like so:
+HTML Tag Example:
 
 ```
+<vegachart schema-url="{{ site.baseurl }}/assets/json/newplot.json" style="width: 100%"></vegachart>
 
 ```
 <vegachart schema-url="{{ site.baseurl }}/assets/json/newplot.json" style="width: 100%"></vegachart>
