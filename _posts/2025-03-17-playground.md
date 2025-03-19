@@ -7,7 +7,7 @@ description: This is a blog post to get you started.
 ---
 
 
-## 1. In 2024, I earned both my degrees (bachelor of science, information science & bachelor of science, community health)
+## 1. In 2024, I earned both my degrees (Bachelor of Science - Information science & Bachelor of Science - Community Health) (works better on desktop).
 
 <iframe src="/assets/pdfs/Diploma, information_science.pdf" width="120%" height="800px" style="border: none;"></iframe>
 
