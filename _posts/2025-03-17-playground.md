@@ -2,7 +2,7 @@
 title: Degrees
 tags: [Community Health, Information Science]
 style: fill
-color: secondary
+color: primary
 description: This is a blog post to get you started.
 ---
 
