@@ -1,7 +1,7 @@
 ---
 name: Project
 tools: [R studio, Statistics, Research, Social Science Research]
-image: assets/pngs/Adaptlab_poster_2023.PNG
+image: assets/pngs/Adaptlab_2023.PNG
 description: Research project from Adaptlab - A Statistical Analysis of Relationship Dynamics on Fall Prevention Technology Features"
 ---
 
