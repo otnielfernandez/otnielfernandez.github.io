@@ -1,7 +1,6 @@
 ---
 name: Homework 8 for IS445
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/building_image.jpg
 description: Showcase project utilizing Vega-lite.
 custom_js:
   - vega.min

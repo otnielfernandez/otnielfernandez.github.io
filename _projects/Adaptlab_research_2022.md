@@ -1,5 +1,5 @@
 ---
-name: Project
+name: An Ananlysis of Relationship Dynamic on Fall Prevention Technology Features - Research Project 2022
 tools: [R studio, Statistics, Research, Social Science Research]
 image: assets/pngs/Adaptlab_poster_2022.PNG
 description: Research project from Adaptlab - A Statistical Analysis of Relationship Dynamics on Fall Prevention Technology Features"

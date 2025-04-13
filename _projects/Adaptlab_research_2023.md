@@ -1,5 +1,6 @@
 ---
-name: Project
+name: >
+  Analyzing Older Adults' Interactions with Voice Assistants: Implications for Improving Adoption of Novel Technologies - Research Project 2023
 tools: [R studio, Statistics, Research, Social Science Research]
 image: assets/pngs/Adaptlab_2023.PNG
 description: Research project from Adaptlab - A Statistical Analysis of Relationship Dynamics on Fall Prevention Technology Features"

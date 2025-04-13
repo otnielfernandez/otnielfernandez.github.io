@@ -1,7 +1,6 @@
 ---
 name: Final Project Showcase
 tools: [Python, HTML, Altair, NumPy, Pandas]
-image: assets/pngs/words.jpg
 description: Project using Python/Altair
 custom_js:
   - vega.min

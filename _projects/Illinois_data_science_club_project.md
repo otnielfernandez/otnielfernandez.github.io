@@ -1,8 +1,7 @@
 ---
 name: Illinois Data Science Project
 tools: [Python, Classification, Predictive Analytics, Multiple Linear Regression, Hypothesis testing, Matplotlib, Seaborn, Sklearn, Pandas, Numpy, T Test]
-image: 
-description: Runner-up data science project analyzing green house gases emitted by America's 3rd Largest City: chicago
+description: Runner-up data science project analyzing green house gases emitted by America's 3rd Largest City.
 custom_js:
   - vega.min
   - vega-lite.min
