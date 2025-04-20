@@ -10,6 +10,8 @@ custom_js:
   - justcharts
 ---
 Under construction 
+https://www.figma.com/board/QV33Ukg0uQLquRyXqRbxAB/GoldenAssist?node-id=875-1085&t=gNoyw10iNwUP6SuL-1
+S
 
 <iframe src="/assets/notebooks/Midterm Project IS305.html" width="100%" height="1000px" style="border: none; margin: 0 auto; display: block padding; 0;"></iframe>
 
