@@ -1,5 +1,5 @@
 ---
-name: Final Project Showcase
+name: Does the rate of images, negative, or positive words influence the amount of shares a particular article has?
 tools: [Python, HTML, Altair, NumPy, Pandas]
 description: Project using Python/Altair
 custom_js:

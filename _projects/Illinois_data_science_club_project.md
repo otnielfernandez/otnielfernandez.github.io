@@ -1,5 +1,5 @@
 ---
-name: Illinois Data Science Project
+name: Analysis of greenhouse gases emitted by the city of Chicago
 tools: [Python, Classification, Predictive Analytics, Multiple Linear Regression, Hypothesis testing, Matplotlib, Seaborn, Sklearn, Pandas, Numpy, T Test]
 description: Runner-up data science project analyzing green house gases emitted by America's 3rd Largest City.
 custom_js:
